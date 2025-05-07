@@ -3,7 +3,6 @@
       "title": "Talent Management System",
       "imageSrc": "projects/Home0.png",
       "description": "This system was developed during my internship at Africom Company. It is a job portal that connects job seekers with companies, streamlining the recruitment process.",
-,
       "skills": [".Net MVC", "CSS", "HTML","JavaScript"],
       "source": "https://github.com/NazrawitGemechu/TalentManagementSystemProject"
     },
