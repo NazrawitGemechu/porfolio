@@ -9,7 +9,7 @@ export const ProjectCard = ({
     <div className={styles.container}>
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
-      <ul className={styles.skills}>
+      {/* <ul className={styles.skills}>
         {skills.map((skill, id) => {
           return (
             <li key={id} className={styles.skill}>
@@ -17,7 +17,7 @@ export const ProjectCard = ({
             </li>
           );
         })}
-      </ul>
+      </ul>*/}
       <div className={styles.links}>
        {demo &&
         <a href={demo} className={styles.link}>
