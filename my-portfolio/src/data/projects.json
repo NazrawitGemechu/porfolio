@@ -2,24 +2,40 @@
     {
       "title": "Talent Management System",
       "imageSrc": "projects/Home0.png",
-      "description": "This sytem was made during my internship at Africom Company. This is a website that acts as a broker between a talent and a company.",
-      "skills": [".Net Core", "CQRS", "Mediator","Clean Architecture"],
-      "source": "https://github.com/NazrawitGemechu/TalentManagementSystem"
+      "description": "This system was developed during my internship at Africom Company. It is a job portal that acts as a bridge between job seekers and companies, facilitating the recruitment process by connecting talent with potential employers."
+
+,
+      "skills": [".Net MVC", "CSS", "HTML","JavaScript"],
+      "source": "https://github.com/NazrawitGemechu/TalentManagementSystemProject"
     },
     {
       "title": "Human Resource Management System",
       "imageSrc": "projects/project.png",
-      "description": "This project was made for a company called Akufada Microfinance. It is a human resource management sytem for main tasks of the company.Due to confidentiality i cannot provide the source code for this project. ",
+      "description": "This project was developed for Akufada Microfinance as part of a volunteer initiative. It is a Human Resource Management System designed to automate key HR tasks for the company.",
       "skills": ["React", ".Net Core", "API", "Swagger UI"]
       
     },
     {
       "title": "Personal Portfolio",
       "imageSrc": "projects/portfoli.png",
-      "description": "I made this project to showcase my skills and experiences in a more simplified and cleary way",
+      "description": "This project was created to showcase my skills and experience in a clear and simplified way. It reflects my ability to design and develop functional systems while maintaining a focus on user experience and performance.",
       "skills": ["React","Json"],
       "demo": "https://www.example.com",
       "source": "https://github.com/NazrawitGemechu/porfolio"
+    },
+    {
+      "title": "Fruit and Vegetables Recognition System using CNN ",
+      "imageSrc": "projects/portfoli.png",
+      "description":"This project utilizes Convolutional Neural Networks (CNN) for the identification of fruits and vegetables from images. It demonstrates my ability to implement machine learning algorithms and computer vision techniques to solve real-world classification problems.",
+      "skills": ["Python"],
+      "source": "https://github.com/NazrawitGemechu/CNN_Fruit_Vegetable_Recognition"
+    },
+    {
+      "title": "Fruit and Vegetables Recognition System using Random Forest ",
+      "imageSrc": "projects/portfoli.png",
+      "description":"This project applies the Random Forest algorithm for the classification of fruits and vegetables based on image features. It highlights my skills in machine learning model training and feature engineering for improved accuracy in image classification tasks.",
+      "skills": ["Python"],
+      "source": "https://github.com/NazrawitGemechu/Random_Forest_Fruit_Vegetable_Recognition"
     }
   ]
   
