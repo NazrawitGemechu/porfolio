@@ -26,14 +26,14 @@
     {
       "title": "Fruit and Vegetables Recognition System using CNN ",
       "imageSrc": "projects/portfoli.png",
-      "description":"This project utilizes Convolutional Neural Networks (CNN) for the identification of fruits and vegetables from images. It demonstrates my ability to implement machine learning algorithms and computer vision techniques to solve real-world classification problems.",
+      "description":"An image classification system using CNN to recognize fruits and vegetables.",
       "skills": ["Python"],
       "source": "https://github.com/NazrawitGemechu/CNN_Fruit_Vegetable_Recognition"
     },
     {
       "title": "Fruit and Vegetables Recognition System using Random Forest ",
       "imageSrc": "projects/portfoli.png",
-      "description":"This project applies the Random Forest algorithm for the classification of fruits and vegetables based on image features. It highlights my skills in machine learning model training and feature engineering for improved accuracy in image classification tasks.",
+      "description":"A machine learning model using Random Forest to classify fruits and vegetables from images.",
       "skills": ["Python"],
       "source": "https://github.com/NazrawitGemechu/Random_Forest_Fruit_Vegetable_Recognition"
     }
