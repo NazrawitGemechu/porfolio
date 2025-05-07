@@ -18,7 +18,7 @@ function App() {
       <Experience/>
       <Projects/>
       <ContactMe/>
-      <Contact />
+     
     </div>
   )
 }
