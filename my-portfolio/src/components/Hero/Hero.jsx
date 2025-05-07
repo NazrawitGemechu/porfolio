@@ -12,7 +12,8 @@ const Hero = () => {
         </p>
         <a href="#contact" className={styles.contactBtn}>Contact Me</a>
     </div>
-    <img className={styles.heroImg}src={getImageUrl("hero/old_photo.jpg")} alt="hero image of me"/>
+   {/* <img className={styles.heroImg} src={getImageUrl("hero/old_photo.jpg")} alt="hero image of me" /> */}
+
   <div className={styles.topBlur}/>
 
   <div className={styles.bottomBlur}/>
