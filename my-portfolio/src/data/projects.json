@@ -12,15 +12,14 @@
       "title": "Human Resource Management System",
       "imageSrc": "projects/project.png",
       "description": "This project was developed for Akufada Microfinance as part of a volunteer initiative. It is a Human Resource Management System designed to automate key HR tasks for the company.",
-      "skills": ["React", ".Net Core", "API", "Swagger UI"]
-      
+      "skills": ["React", ".Net Core", "API", "Swagger UI"],
+      "source": "https://github.com/NazrawitGemechu/HUMAN_RESOURCE_MANAGEMENT_SYSTEM"
     },
     {
       "title": "Personal Portfolio",
       "imageSrc": "projects/portfoli.png",
       "description": "This project was created to showcase my skills and experience in a clear and simplified way. It reflects my ability to design and develop functional systems while maintaining a focus on user experience and performance.",
       "skills": ["React","Json"],
-      "demo": "https://www.example.com",
       "source": "https://github.com/NazrawitGemechu/porfolio"
     },
     {
