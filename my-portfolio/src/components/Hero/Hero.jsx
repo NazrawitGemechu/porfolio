@@ -8,8 +8,7 @@ const Hero = () => {
     <div className={styles.content}>
         <h1 className={styles.title}> Hello, I'm Nazrawit</h1>
         <p className={styles.description}>
-        I'm a passionate full-stack developer nearing completion of my Software Engineering Bachelor's degree.Reach out if you would like to know more.
-            
+         a passionate full-stack developer currently pursuing my Master's in Computer Science. I hold a Bachelor's degree in Software Engineering. Feel free to reach out if you'd like to learn more about my work and experiences.
         </p>
         <a href="#contact" className={styles.contactBtn}>Contact Me</a>
     </div>
